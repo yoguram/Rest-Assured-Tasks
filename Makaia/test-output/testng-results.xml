@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14219" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14219" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:59 IST">
+      <class name="tests.rest.Kloudless_Contacts_Opportunity">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="beforeSuite" is-config="true" duration-ms="1360" started-at="2020-07-28T18:27:44 IST" finished-at="2020-07-28T18:27:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="setValues" is-config="true" duration-ms="1" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createOpportunityAndContacts()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="createOpportunityAndContacts" duration-ms="14172" started-at="2020-07-28T18:27:45 IST" finished-at="2020-07-28T18:27:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOpportunityAndContacts -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-07-28T18:27:59 IST" finished-at="2020-07-28T18:27:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.rest.Kloudless_Contacts_Opportunity@7a3d45bd]" name="afterSuite" is-config="true" duration-ms="848" started-at="2020-07-28T18:28:00 IST" finished-at="2020-07-28T18:28:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.rest.Kloudless_Contacts_Opportunity -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

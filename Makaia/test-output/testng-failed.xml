@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.rest.Kloudless_Contacts_Opportunity">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="setValues"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="createOpportunityAndContacts"/>
+        </methods>
+      </class> <!-- tests.rest.Kloudless_Contacts_Opportunity -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
